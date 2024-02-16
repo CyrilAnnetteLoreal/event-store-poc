@@ -1,0 +1,8 @@
+{
+  "connectionSettings": {
+    "endpoint": "localhost:2113"
+  },
+  "channelCredentials": {
+    "insecure": true
+  }
+}
